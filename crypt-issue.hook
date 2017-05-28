@@ -1,0 +1,7 @@
+# /etc/initcpio/hook/crypt-issue
+
+run_hook(){
+	hook_name="crypt-issue"
+	cat /etc/crypt-issue
+}
+

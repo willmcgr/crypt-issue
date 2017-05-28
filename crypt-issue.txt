@@ -1,0 +1,7 @@
+ [1;30m--------------------------------------------------------------------[0m
+[1;30m|[0m [0;36m<<[0m [1;31mWarning[0;31m![0m [0;36m>>[0m                                                     [1;30m|[0m
+[1;30m|[0m This is a private computer for authorized users ONLY.              [1;30m|[0m
+[1;30m|[0m Unauthorized access or any attempts to bypass security mechanisms  [1;30m|[0m
+[1;30m|[0m is a violation of the law. By proceeding, you acknowledge that     [1;30m|[0m
+[1;30m|[0m you have fully read and understood this notice.                    [1;30m|[0m
+ [1;30m--------------------------------------------------------------------[0m
